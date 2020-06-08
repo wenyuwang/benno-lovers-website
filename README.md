@@ -2,23 +2,27 @@
 
 https://confident-wilson-445129.netlify.app/
 
+## Notion Notes:
+
+https://www.notion.so/invite/e3954826ff5205489512f0ec4721b3698ef79ab1
+
 
 ### Progress
 
-- [] emotion / component styles
-- [] home page
-- [] tag page
-- [] author page
-- [] blog page
-  - [] subscribe form - using [mailchimp](https://mailchimp.com)
+- [ ] emotion / component styles
+- [ ] home page
+- [ ] tag page
+- [ ] author page
+- [ ] blog page
+  - [ ] subscribe form - using [mailchimp](https://mailchimp.com)
   - [ ] full width images in markdown? - not sure if possible
-  - [] multiple post authors
+  - [ ] multiple post authors
 - [x] 404 page
 - [x] subscribe modal/overlay
-- [] rss feed (on production build)
+- [ ] rss feed (on production build)
 - [ ] polish ✨
-  - [] meta tags
-  - [] page titles
+  - [ ] meta tags
+  - [ ] page titles
   - [ ] pagination
 
 ### Deploy to Netlify
